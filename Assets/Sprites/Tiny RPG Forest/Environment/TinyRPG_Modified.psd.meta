@@ -656,6 +656,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -665,8 +667,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -687,9 +689,12 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
@@ -3618,6 +3623,144 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      TinyRPG_Modified_50: 8379864407281695657
+      TinyRPG_Modified_81: 3869548662086185586
+      TinyRPG_Modified_58: -7336846348989713926
+      TinyRPG_Modified_53: -3138119421062736698
+      TinyRPG_Modified_23: -3014392354019699847
+      TinyRPG_Modified_134: 4302179150547969592
+      TinyRPG_Modified_85: 7245566418865133237
+      TinyRPG_Modified_76: -1880062088230752213
+      TinyRPG_Modified_105: -5732777735958243349
+      TinyRPG_Modified_80: 5209114974790189629
+      TinyRPG_Modified_69: -7599753218110968780
+      TinyRPG_Modified_46: 576822236170566553
+      TinyRPG_Modified_99: 9011221019365064687
+      TinyRPG_Modified_82: 2719104349929936184
+      TinyRPG_Modified_126: 88885015326093833
+      TinyRPG_Modified_9: 9188598105538347378
+      TinyRPG_Modified_30: -2150957043348121138
+      TinyRPG_Modified_103: 2401312674102180791
+      TinyRPG_Modified_112: -4440392620546800016
+      TinyRPG_Modified_49: -8454989426201295727
+      TinyRPG_Modified_114: -5716285922547540660
+      TinyRPG_Modified_96: 8775564632336080016
+      TinyRPG_Modified_100: -6627464633352517578
+      TinyRPG_Modified_104: -5320898444326572445
+      TinyRPG_Modified_73: -2742340797460238670
+      TinyRPG_Modified_109: 155010445792028701
+      TinyRPG_Modified_110: 3422267175749551328
+      TinyRPG_Modified_2: -2021616657562330854
+      TinyRPG_Modified_127: 5889191044824936656
+      TinyRPG_Modified_128: 4058095184714818890
+      TinyRPG_Modified_115: 6194622497841139280
+      TinyRPG_Modified_132: -6515939267599961126
+      TinyRPG_Modified_89: -1955754828571633885
+      TinyRPG_Modified_118: -2541059632467546656
+      TinyRPG_Modified_25: 3016194271863585279
+      TinyRPG_Modified_16: -7648102764180987967
+      TinyRPG_Modified_32: 5130522803596910022
+      TinyRPG_Modified_27: -7300764089867188924
+      TinyRPG_Modified_57: -8711494394220874998
+      TinyRPG_Modified_72: -5502200993869711553
+      TinyRPG_Modified_45: 1832880112919989163
+      TinyRPG_Modified_64: -102842473354311954
+      TinyRPG_Modified_117: 6300446299265846680
+      TinyRPG_Modified_66: -6249221143793169867
+      TinyRPG_Modified_92: 2970704011146723803
+      TinyRPG_Modified_17: -7971603437879104738
+      TinyRPG_Modified_61: 3126499126307716570
+      TinyRPG_Modified_13: 4958474959559323370
+      TinyRPG_Modified_44: -1999570050838625430
+      TinyRPG_Modified_133: 4690884571868521498
+      TinyRPG_Modified_86: -5628044134956741480
+      TinyRPG_Modified_102: 5292349016851747984
+      TinyRPG_Modified_87: -3344588751684894551
+      TinyRPG_Modified_74: -8363411302542477564
+      TinyRPG_Modified_97: 3972186515020249303
+      TinyRPG_Modified_71: -7018663637032690151
+      TinyRPG_Modified_124: -2346979583441199639
+      TinyRPG_Modified_47: 6375660561736128587
+      TinyRPG_Modified_10: -926591403796644419
+      TinyRPG_Modified_11: 2932562488989712296
+      TinyRPG_Modified_55: -8502799710005321995
+      TinyRPG_Modified_34: -2529254608559183687
+      TinyRPG_Modified_95: -4875907625202530177
+      TinyRPG_Modified_38: 188299012233992579
+      TinyRPG_Modified_14: 1072991362033371294
+      TinyRPG_Modified_48: -9183581162781623327
+      TinyRPG_Modified_29: -2296285102014253362
+      TinyRPG_Modified_98: -1720603862621916265
+      TinyRPG_Modified_24: -5020992535468904618
+      TinyRPG_Modified_107: -3381438633628917834
+      TinyRPG_Modified_93: 4839392976633817531
+      TinyRPG_Modified_113: -8421411816198225164
+      TinyRPG_Modified_75: 6780467258662332245
+      TinyRPG_Modified_28: -5144203384383326842
+      TinyRPG_Modified_79: -1729708012249467776
+      TinyRPG_Modified_35: -1622077407675760954
+      TinyRPG_Modified_83: 8354141305321395779
+      TinyRPG_Modified_63: -1687378727090229727
+      TinyRPG_Modified_101: 1542009301089899605
+      TinyRPG_Modified_3: -7497356564488894428
+      TinyRPG_Modified_6: -8024263573197328274
+      TinyRPG_Modified_111: -7419572016783726599
+      TinyRPG_Modified_42: 581793334950424380
+      TinyRPG_Modified_0: -4201421591346631324
+      TinyRPG_Modified_33: -7331047215914232197
+      TinyRPG_Modified_119: -254753685109206891
+      TinyRPG_Modified_121: -8369329189445253652
+      TinyRPG_Modified_131: -2220845938176405262
+      TinyRPG_Modified_21: 1405243837297962389
+      TinyRPG_Modified_88: -6735635824367283625
+      TinyRPG_Modified_19: 4079225875545606852
+      TinyRPG_Modified_18: 3807776626581297593
+      TinyRPG_Modified_94: 191269208715301568
+      TinyRPG_Modified_122: 1257617138924062174
+      TinyRPG_Modified_1: 5984460280556764861
+      TinyRPG_Modified_39: -7202778246754732051
+      TinyRPG_Modified_136: -4911273959580752119
+      TinyRPG_Modified_20: 1406467991632768952
+      TinyRPG_Modified_54: 8650889672709706616
+      TinyRPG_Modified_60: -5524989910910781790
+      TinyRPG_Modified_37: 1178002456805958566
+      TinyRPG_Modified_52: 2371010519061810804
+      TinyRPG_Modified_125: -983076389243538295
+      TinyRPG_Modified_5: 4786039188611457883
+      TinyRPG_Modified_26: -5318889127434891004
+      TinyRPG_Modified_91: 830245269880991221
+      TinyRPG_Modified_90: -8526219313876628764
+      TinyRPG_Modified_22: 698472646282032654
+      TinyRPG_Modified_123: 6833069221704691429
+      TinyRPG_Modified_4: -2059024665671267244
+      TinyRPG_Modified_8: -1030340086542579877
+      TinyRPG_Modified_135: 5377347113115086274
+      TinyRPG_Modified_12: -1006662891788128893
+      TinyRPG_Modified_59: -341655395260606974
+      TinyRPG_Modified_120: 8280402468184440164
+      TinyRPG_Modified_77: 6032916744961879977
+      TinyRPG_Modified_41: -2463911928589698640
+      TinyRPG_Modified_68: -5197245551032784343
+      TinyRPG_Modified_15: -7250150872697477529
+      TinyRPG_Modified_43: -6257635059955497925
+      TinyRPG_Modified_67: 1228435539882811916
+      TinyRPG_Modified_7: -1250807887190466210
+      TinyRPG_Modified_62: 9153429903618528628
+      TinyRPG_Modified_31: 122189833376233890
+      TinyRPG_Modified_84: -3094084144623581956
+      TinyRPG_Modified_70: 6382915702714192926
+      TinyRPG_Modified_51: 3576733381401224631
+      TinyRPG_Modified_129: 7052181201036973757
+      TinyRPG_Modified_56: 6227997655981989360
+      TinyRPG_Modified_36: -5517971549132364051
+      TinyRPG_Modified_106: 968117473003048511
+      TinyRPG_Modified_78: -9019378034232529668
+      TinyRPG_Modified_116: 6201497179872029090
+      TinyRPG_Modified_130: -8360327876597231565
+      TinyRPG_Modified_65: -2648607714632072626
+      TinyRPG_Modified_108: 3532849076918822595
+      TinyRPG_Modified_40: -3406659460273351338
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 1
